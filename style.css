@@ -344,7 +344,7 @@ blockquote p {
 }
 
 .header-home {
-  background: transparent;
+  background: #2C2D31;
 /*box-shadow*/
   -webkit-box-shadow: none;
      -moz-box-shadow: none;
@@ -1638,6 +1638,10 @@ footer p, footer a {
     padding: 8px 0;
   }
 
+  .header-home{
+    background: #2C2D31;
+  }
+
   .logo-wrap {
     float: left;
     width: 100%;
@@ -1752,6 +1756,10 @@ footer p, footer a {
   
   .header-carousel {
     height: 620px;
+  }
+
+  .header-home {
+    background: #2C2D31;
   }
 
   .social-set a {
